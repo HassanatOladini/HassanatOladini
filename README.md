@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @HassanatOladini
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning test driven development
+- 👋 Hi, I’m @HassanatOladini - I am a frontend development
+- 🌱 I’m currently work with React
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me
       follow me on linkedIn: https://www.linkedin.com/in/hassanatoladini/
