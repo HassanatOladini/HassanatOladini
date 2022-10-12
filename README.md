@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HassanatOladini - I am a frontend development
+- 👋 Hi, I’m @HassanatOladini - I am a frontend developer
 - 🌱 I currently work with React
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me
